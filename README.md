@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lerowi 
 - 👀 I’m interested in C++ Game and Software Development.
 - 🌱 I’m currently learning Lua and Embedding.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game Development.
 - 📫 How to reach me ...
 
 <!---
